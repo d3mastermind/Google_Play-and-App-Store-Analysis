@@ -1,7 +1,7 @@
 # Profitable App Profiles for the App Store and Google Play Markets
  The goal for this project is to analyze data to understand what kinds of app profiles are likely to attract more users and are profitable for the App Store and Google Play markets.<br>
  The analysis was performed using Basic Python Data Structures such as (Python Lists, Dictionaries and Tuples) without the use of Advanced Data Structures such as (Pandas-Dataframe and Numpy-arrays).
- **Check out the [Jupyter Notebook](https://github.com/The-PhanTom999/Google_Play-and-App-Store-Analysis/blob/bab2a0b2b04d70f45c4251ea4546dd7b1377fb96/Notebook.ipynb)**
+ **Check out the [Jupyter Notebook](https://github.com/The-PhanTom999/Google_Play-and-App-Store-Analysis/blob/38faa1c9a96a34d91c6d14589af2e12092a20b1f/Notebook.ipynb)**
 
 ### After the Analysis i was able to come to a conclusion that:
 
